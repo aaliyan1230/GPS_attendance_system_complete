@@ -2,7 +2,7 @@
 
 #### A gps attendance system with backend implemented with Django web framework and frontend on React.js(mantine).
 
-The user of a system can hahve multiple events each of which can have multiple slots.
+The user of a system can have multiple events each of which can have multiple slots.
 
 There are two intended users of the application: Attendee and Organizer
 
@@ -10,7 +10,7 @@ An attendee can use the system to check their attendance ratio in a event, and m
 
 An organizer can use it to see all the participants of an event, which attendees marked present at a slot, the ratio of all the attendees of an event, and option to manually mark the attendance of an attendee.
 
-All the other information of an event and its slots is managed from the django admin panel.
+All the other information of an event and its slots are managed from the django admin panel.
 
 Googles's Geolocation API has been used to retrieve the coordinates, only when an attendee is within specified oundary range of the organizer, it isthen the attendance is accepted or else rejected. 
 
