@@ -14,7 +14,7 @@ All the other information of an event and its slots is managed from the django a
 
 Googles's Geolocation API has been used to retrieve the coordinates, only when an attendee is within specified oundary range of the organizer, it isthen the attendance is accepted or else rejected. 
 
-
+#### User Interface:
 ![Login Page](https://user-images.githubusercontent.com/72091404/187738258-5cb4d9a4-7330-4938-91a4-535ca721f0d0.png)
 ![Attendee Events](https://user-images.githubusercontent.com/72091404/187738356-a74d81cd-7689-4387-a5a8-1db19ad28212.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/72091404/187738447-e3075982-377a-4854-a2e1-4cc7080a01bd.png)
@@ -23,3 +23,6 @@ Googles's Geolocation API has been used to retrieve the coordinates, only when a
 ![Screenshot (16)](https://user-images.githubusercontent.com/72091404/187738583-1029b1da-49e4-4d0e-929f-e52523622573.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/72091404/187738598-07cee87d-3051-45fa-8341-cf7e3c138ff9.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/72091404/187738617-ecfcd3d3-a20d-497d-ac02-c3bba0a7ec60.png)
+
+#### EERD:
+![image](https://user-images.githubusercontent.com/73843030/189599861-d5a9003d-e364-4232-a1b9-de17a7de6a87.png)
